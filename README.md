@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Adnan Tanoli
+# 👋 Hi, I'm Adnan Niaz
 
 🚀 **Frontend Developer | Next.js Enthusiast | SaaS Builder**
 
@@ -34,15 +34,6 @@ I build modern, scalable, and user-friendly web applications. Passionate about *
 
 ---
 
-## 📰 Latest GitHub Activity
-<!--START_SECTION:activity-->
-1. 🗂️ Pushed code to [repo-name](#)
-2. 🔥 Opened a pull request in [repo-name](#)
-3. ⭐ Starred [some-awesome-repo](#)
-<!--END_SECTION:activity-->
-
-*(You can automate this section using [GitHub Actions](https://github.com/marketplace/actions/github-activity-readme))*  
-
 ---
 
 ## 👁️ Visitor Counter
@@ -52,8 +43,8 @@ I build modern, scalable, and user-friendly web applications. Passionate about *
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adnanniazdev)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=vercel)](https://your-portfolio-link.com)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=vercel)]([https://your-portfolio-link.com](https://adnandev-silk.vercel.app/))  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:adnantanoli2662l@gmail.com)
 
 ---
 
